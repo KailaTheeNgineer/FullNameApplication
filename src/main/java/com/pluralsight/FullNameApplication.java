@@ -26,7 +26,7 @@ public class FullNameApplication {
 
 
         } else {
-            System.out.println(firstName.trim() + " " + middleName.trim() + " " + lastName.trim() + ", " + suffix);
+            System.out.println(firstName.trim() + " " + middleName.trim() + " " + lastName.trim() + ", " + suffix.trim());
 
 
         }
